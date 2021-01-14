@@ -1,4 +1,4 @@
-package com.bezkoder.springjwt.models;
+package com.vishwakarma.springjwt.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
